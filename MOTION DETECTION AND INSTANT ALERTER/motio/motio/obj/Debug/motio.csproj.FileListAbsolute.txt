@@ -1,0 +1,64 @@
+D:\project\md\motio\motio\bin\Debug\motio.exe.config
+D:\project\md\motio\motio\bin\Debug\motio.exe
+D:\project\md\motio\motio\bin\Debug\motio.pdb
+D:\project\md\motio\motio\bin\Debug\AForge.Controls.dll
+D:\project\md\motio\motio\bin\Debug\AForge.dll
+D:\project\md\motio\motio\bin\Debug\AForge.Imaging.dll
+D:\project\md\motio\motio\bin\Debug\AForge.Math.dll
+D:\project\md\motio\motio\bin\Debug\AForge.Video.DirectShow.dll
+D:\project\md\motio\motio\bin\Debug\AForge.Video.dll
+D:\project\md\motio\motio\bin\Debug\AForge.Vision.dll
+D:\project\md\motio\motio\bin\Debug\AForge.xml
+D:\project\md\motio\motio\bin\Debug\AForge.Controls.xml
+D:\project\md\motio\motio\bin\Debug\AForge.Imaging.xml
+D:\project\md\motio\motio\bin\Debug\AForge.Math.xml
+D:\project\md\motio\motio\bin\Debug\AForge.Video.xml
+D:\project\md\motio\motio\bin\Debug\AForge.Video.DirectShow.xml
+D:\project\md\motio\motio\bin\Debug\AForge.Vision.xml
+D:\project\md\motio\motio\obj\Debug\motio.csprojResolveAssemblyReference.cache
+D:\project\md\motio\motio\obj\Debug\motio.Form1.resources
+D:\project\md\motio\motio\obj\Debug\motio.Properties.Resources.resources
+D:\project\md\motio\motio\obj\Debug\motio.csproj.GenerateResource.Cache
+D:\project\md\motio\motio\obj\Debug\motio.exe
+D:\project\md\motio\motio\obj\Debug\motio.pdb
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\motio.exe.config
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.exe
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.pdb
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\motio.exe
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\motio.pdb
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Controls.dll
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.dll
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Imaging.dll
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Math.dll
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Video.dll
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Vision.dll
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.xml
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Controls.xml
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Imaging.xml
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Math.xml
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Video.xml
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Vision.xml
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.csprojResolveAssemblyReference.cache
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.Form1.resources
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.Properties.Resources.resources
+C:\Users\Maniprasanth\Desktop\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.csproj.GenerateResource.Cache
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\motio.exe.config
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\motio.exe
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\motio.pdb
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.xml
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Controls.xml
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Imaging.xml
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Math.xml
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Video.xml
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\bin\Debug\AForge.Vision.xml
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.csproj.AssemblyReference.cache
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.Form1.resources
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.Properties.Resources.resources
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.csproj.GenerateResource.cache
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.csproj.CopyComplete
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.exe
+C:\Users\Praveen Kumar\Desktop\MOTION DETECTION AND INSTANT ALERTER\MOTION DETECTION AND INSTANT ALERTER\motio\motio\obj\Debug\motio.pdb
